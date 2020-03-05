@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MariaKoliadich\\source\\repos\\Masha\\Masha\\Masha.csproj": {}
+    "C:\\Users\\MariaKoliadich\\Documents\\Training\\Masha\\Masha\\Masha.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MariaKoliadich\\source\\repos\\Masha\\Masha\\Masha.csproj": {
+    "C:\\Users\\MariaKoliadich\\Documents\\Training\\Masha\\Masha\\Masha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MariaKoliadich\\source\\repos\\Masha\\Masha\\Masha.csproj",
+        "projectUniqueName": "C:\\Users\\MariaKoliadich\\Documents\\Training\\Masha\\Masha\\Masha.csproj",
         "projectName": "Masha",
-        "projectPath": "C:\\Users\\MariaKoliadich\\source\\repos\\Masha\\Masha\\Masha.csproj",
+        "projectPath": "C:\\Users\\MariaKoliadich\\Documents\\Training\\Masha\\Masha\\Masha.csproj",
         "packagesPath": "C:\\Users\\MariaKoliadich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MariaKoliadich\\source\\repos\\Masha\\Masha\\obj\\",
+        "outputPath": "C:\\Users\\MariaKoliadich\\Documents\\Training\\Masha\\Masha\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

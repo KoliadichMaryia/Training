@@ -9,3 +9,14 @@ C:\Users\MariaKoliadich\source\repos\Masha\Masha\obj\Debug\netcoreapp2.2\Masha.A
 C:\Users\MariaKoliadich\source\repos\Masha\Masha\obj\Debug\netcoreapp2.2\Masha.dll
 C:\Users\MariaKoliadich\source\repos\Masha\Masha\obj\Debug\netcoreapp2.2\Masha.pdb
 C:\Users\MariaKoliadich\source\repos\Masha\Masha\obj\Debug\netcoreapp2.2\Masha.csprojAssemblyReference.cache
+C:\Users\MariaKoliadich\Documents\Training\Masha\Masha\bin\Debug\netcoreapp2.2\Masha.deps.json
+C:\Users\MariaKoliadich\Documents\Training\Masha\Masha\bin\Debug\netcoreapp2.2\Masha.runtimeconfig.json
+C:\Users\MariaKoliadich\Documents\Training\Masha\Masha\bin\Debug\netcoreapp2.2\Masha.runtimeconfig.dev.json
+C:\Users\MariaKoliadich\Documents\Training\Masha\Masha\bin\Debug\netcoreapp2.2\Masha.dll
+C:\Users\MariaKoliadich\Documents\Training\Masha\Masha\bin\Debug\netcoreapp2.2\Masha.pdb
+C:\Users\MariaKoliadich\Documents\Training\Masha\Masha\obj\Debug\netcoreapp2.2\Masha.csprojAssemblyReference.cache
+C:\Users\MariaKoliadich\Documents\Training\Masha\Masha\obj\Debug\netcoreapp2.2\Masha.csproj.CoreCompileInputs.cache
+C:\Users\MariaKoliadich\Documents\Training\Masha\Masha\obj\Debug\netcoreapp2.2\Masha.AssemblyInfoInputs.cache
+C:\Users\MariaKoliadich\Documents\Training\Masha\Masha\obj\Debug\netcoreapp2.2\Masha.AssemblyInfo.cs
+C:\Users\MariaKoliadich\Documents\Training\Masha\Masha\obj\Debug\netcoreapp2.2\Masha.dll
+C:\Users\MariaKoliadich\Documents\Training\Masha\Masha\obj\Debug\netcoreapp2.2\Masha.pdb

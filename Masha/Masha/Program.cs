@@ -8,9 +8,9 @@ namespace Masha
     {
         static void Main(string[] arg)
         {
-            PlayWithCollection();
-            PlayWithList();
-            //PlayWithClasses();
+            //PlayWithCollection();
+            //PlayWithList();
+            PlayWithClasses();
         }
         public static void PlayWithClasses()
         {

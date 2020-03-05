@@ -14,7 +14,7 @@ namespace Masha
         }
         public void ShowInfo()
         {
-            base.ShowInfo();
+            base.ShowProperties();
             Console.WriteLine("Tail length: " + TailLength);
             Console.WriteLine("");
         }

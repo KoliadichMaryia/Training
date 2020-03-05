@@ -18,11 +18,15 @@ namespace Masha
 
         public void ShowInfo()
         {
+            ShowProperties();
+            Console.WriteLine("");
+        }
+        public void ShowProperties()
+        {
             Console.WriteLine("Name: " + Name);
             Console.WriteLine("Age: " + Age);
             Console.WriteLine("Height: " + Height);
             Console.WriteLine("Weight: " + Weight);
-            Console.WriteLine("");
         }
         public void Eat(double foodWeight)
         {
